@@ -28,11 +28,11 @@
 Буду рад новым проектам и профессиональным знакомствам! Заглядывайте на мой профиль и смотрите, как я развиваюсь как разработчик.
 
 ## 📞 Связаться со мной:
-- 💬 [Telegram](https://t.me/your-username)
-- 📸 [Instagram](https://www.instagram.com/your-username)
-- 📱 [WhatsApp](https://wa.me/your-phone-number)
+- 💬 [Telegram](https://t.me/shabdandew)
+- 📸 [Instagram](https://www.instagram.com/_shabdan.01)
+- 📱 [WhatsApp](https://wa.me/+996708171232)
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 [Email](mailto:your-email@gmail.com)
+- 📧 [Email](mailto:arslanbekovshabdan1@gmail.com)
 
 ---
 
