@@ -24,9 +24,13 @@
 ### Контроль версий:
 - 🗂️ **Git** и **GitHub**  
 
-
 ## 🔍 Открыт для новых возможностей
 Буду рад новым проектам и профессиональным знакомствам! Заглядывайте на мой профиль и смотрите, как я развиваюсь как разработчик.
+
+## 📊 GitHub Статистика
+
+![Shabdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabdandev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabdandev&layout=compact&theme=radical)
 
 ## 📞 Связаться со мной:
 
@@ -36,7 +40,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
 [![GitHub](https://img.shields.io/badge/GitHub-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shabdandev)
 [![Email](https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanbekovshabdan1@gmail.com)
-
 
 ---
 
