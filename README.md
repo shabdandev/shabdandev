@@ -29,11 +29,12 @@
 
 ## 📞 Связаться со мной:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2024-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shabdandew)
-[![Instagram](https://img.shields.io/badge/Instagram-2024-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_shabdan.01)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-2024-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+996708171232)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2024-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-2024-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanbekovshabdan1@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-CONTACT-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shabdandew)
+[![Instagram](https://img.shields.io/badge/Instagram-PROFILE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_shabdan.01)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-CONTACT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+996708171232)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![Email](https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanbekovshabdan1@gmail.com)
 
 
 ---
