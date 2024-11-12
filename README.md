@@ -32,7 +32,7 @@
 ## 🔍 Открыт для новых возможностей
 Я всегда готов к новым проектам и интересным профессиональным знакомствам! Мой профиль — это путь к моему профессиональному росту. Заглядывайте, чтобы узнать больше обо мне и моей работе!
 
-## 📊 GitHub Статистика
+## 📊 My Github Stats
 
 <p display="flex" justify-content="center" align="center">
   <a href="https://github.com/shabdandev"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shabdandev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
