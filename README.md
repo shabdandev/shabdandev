@@ -1,11 +1,7 @@
 # Привет! Меня зовут Шабдан 👋
 
 <a href="https://github.com/shabdandev">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?color=FFE15D&lines=Just+Front-End+Developer"/>
-</a>
-
-<a href="https://github.com/shabdandev">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Shabdan;and+I+am+Frontend+Developer&duration=2500&speed=20&color=fe428e,fe428e,fe428e,fe428e,fe428e&text_color=fe428e"/>
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Меня+зовут+Шабдан;Я+Frontend+Developer&duration=2500&speed=20&color=fe428e,fe428e,fe428e,fe428e,fe428e&text_color=fe428e"/>
 </a>
 
 
