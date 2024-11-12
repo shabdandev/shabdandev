@@ -28,7 +28,7 @@
 Буду рад новым проектам и профессиональным знакомствам! Заглядывайте на мой профиль и смотрите, как я развиваюсь как разработчик.
 
 ## 📞 Связаться со мной:
-## 📞 Связаться со мной:
+
 [![Telegram](https://img.shields.io/badge/Telegram-2024-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shabdandew)
 [![Instagram](https://img.shields.io/badge/Instagram-2024-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_shabdan.01)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-2024-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+996708171232)
