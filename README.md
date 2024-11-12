@@ -4,20 +4,6 @@
   <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Меня+зовут+Шабдан;Я+Frontend+Developer&duration=2500&speed=20&color=fe428e,fe428e,fe428e,fe428e,fe428e&text_color=fe428e"/>
 </a>
 
-<div align="center">
-  <img width="800px" height="125px" src="https://github-readme-stats-one-bice.vercel.app/api?username=shabdandev&theme=react&show_icons=true&count_private=true&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img width="800px" height="125px" src="https://github-readme-streak-stats.herokuapp.com?user=shabdandev&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-</div>
-
-<div align="center">
-  <img width="800px" height="125px" src="https://img.shields.io/github/followers/shabdandev?label=Followers&style=social"/>
-</div>
-
-
-
 Я — **фронтенд-разработчик**, обладающий сильным навыком и страстью к росту в области **веб-разработки**. Я стремлюсь создавать эффективные и эстетичные решения, используя современные технологии.
 
 <!-- Banner -->
