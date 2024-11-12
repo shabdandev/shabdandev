@@ -1,3 +1,7 @@
+<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/shabdandev" target="_blank">Shabdan</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+
 # Привет! Меня зовут Шабдан 👋
 
 <a href="https://github.com/shabdandev">
