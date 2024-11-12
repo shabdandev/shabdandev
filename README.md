@@ -34,10 +34,11 @@
 
 ## 📊 GitHub Статистика
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shabdandev&show_icons=true&theme=radical" alt="Shabdan's GitHub stats" height="180em" />
-</div>
-
+<p align="center">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=yntymakdev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yntymakdev&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</p>
 ## 📞 Связаться со мной
 
 [![Telegram](https://img.shields.io/badge/Telegram-CONTACT-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shabdandew)
