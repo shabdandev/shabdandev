@@ -35,8 +35,18 @@
 ## 📊 GitHub Статистика
 
 <p align="center">
-    <a href="https://github.com/shabdandev?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=shabdandev&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="400px" alt="@shabdandev's github-readme-stats"/></a>
-    <a href="https://github.com/shabdandev?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=shabdandev&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="400px" alt="@shabdandev's github-readme-streak-stats"/></a>
+    <a href="https://github.com/shabdandev?tab=repositories">
+        <img src="https://github-readme-stats-one-bice.vercel.app/api?username=shabdandev&theme=react&show_icons=true&count_private=true&hide_border=true" width="400px" alt="Shabdan's github-readme-stats"/>
+    </a>
+    <a href="https://github.com/shabdandev?tab=stars">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=shabdandev&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="400px" alt="Shabdan's github-readme-streak-stats"/>
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/shabdandev?tab=followers">
+        <img src="https://img.shields.io/github/followers/shabdandev?label=Followers&style=social" alt="GitHub followers" />
+    </a>
 </p>
 
 
