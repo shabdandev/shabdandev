@@ -2,6 +2,14 @@
 
 Я — **фронтенд-разработчик**, обладающий сильным навыком и страстью к росту в области **веб-разработки**. Я стремлюсь создавать эффективные и эстетичные решения, используя современные технологии.
 
+<a href="https://github.com/shabdandev">
+<img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Shabdan;and+I+am+Frontend+Developer&duration=2500&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
+</a>
+</a>    
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elkhan2003&theme=gotham&layout=compact" width="500px"/> 
+</p>
+
 <!-- Banner -->
 ![Shabdan Banner Image](https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg?fit=1610%2C800&strip=all)
 
