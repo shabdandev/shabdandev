@@ -31,7 +31,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shabdandev&show_icons=true&theme=radical" alt="Shabdan's GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabdandev&layout=compact&theme=radical" alt="Top Languages" height="180em" />
 </div>
 
 ## 📞 Связаться со мной
