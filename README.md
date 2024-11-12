@@ -8,21 +8,23 @@
 ## 🛠️ Мой стек технологий
 
 ### Основные технологии:
-- 🚀 **Next.js**
-- ⚛️ **React.js**
-- 🟩 **TypeScript**
-- 💻 **JavaScript**
-- 🌐 **HTML**
-- 🎨 **CSS / SCSS**
+[![Next.js](https://img.shields.io/badge/Next.js-2024-black?style=for-the-badge&logo=next.js&logoColor=white)]()
+[![React.js](https://img.shields.io/badge/React.js-2024-61DAFB?style=for-the-badge&logo=react&logoColor=black)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-2024-3178C6?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![HTML](https://img.shields.io/badge/HTML-2024-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![CSS / SCSS](https://img.shields.io/badge/CSS%20%2F%20SCSS-2024-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 
 ### Состояние и управление данными:
-- 🔄 **Zustand**
-- 📦 **Redux Toolkit (RTK)**
-- 🔍 **RTK Query**
-- 🌍 **React Router DOM**
+[![Zustand](https://img.shields.io/badge/Zustand-2024-000000?style=for-the-badge&logo=zustand&logoColor=white)]()
+[![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-2024-764ABC?style=for-the-badge&logo=redux&logoColor=white)]()
+[![RTK Query](https://img.shields.io/badge/RTK%20Query-2024-764ABC?style=for-the-badge&logo=redux&logoColor=white)]()
+[![React Router DOM](https://img.shields.io/badge/React%20Router%20DOM-2024-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]()
 
 ### Контроль версий:
-- 🗂️ **Git** и **GitHub**
+[![Git](https://img.shields.io/badge/Git-2024-F05032?style=for-the-badge&logo=git&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-2024-181717?style=for-the-badge&logo=github&logoColor=white)]()
+
 
 ## 🔍 Открыт для новых возможностей
 Буду рад новым проектам и профессиональным знакомствам! Заглядывайте на мой профиль и смотрите, как я развиваюсь как разработчик.
