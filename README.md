@@ -1,6 +1,6 @@
 # Привет! Меня зовут Шабдан 👋
 <a href="https://github.com/shabdandev">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Shabdan;and+I+am+Frontend+Developer&duration=2500&speed=20&color=ed3156,ed3156,ed3156,ed3156,ed3156"/>
+  <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=Hi+I+am+Shabdan;and+I+am+Frontend+Developer&duration=2500&speed=20&color=fe428e,fe428e,fe428e,fe428e,fe428e"/>
 </a>
 
 
