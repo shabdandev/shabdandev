@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Статистика
 
-<p align="center">
+<p display="flex" justify-content="center" align="center">
   <a href="https://github.com/shabdandev"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shabdandev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117">
 </a>
     <a href="https://github.com/shabdandev">
